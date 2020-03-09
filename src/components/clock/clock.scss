@@ -1,0 +1,13 @@
+// Font Variables
+// @import "./Variables.scss";
+
+.Clock-Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color: red;
+  padding: 15px 15px;
+  opacity: 0.5;
+  overflow: hidden;
+}
